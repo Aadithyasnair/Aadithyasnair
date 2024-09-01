@@ -1,6 +1,6 @@
 # 🌌 Greetings, 🌌
 
-<img src="https://i.imgur.com/qJjkTe6.jpeg" alt="ProfilePicture" width="250"  style="border-radius: 15px"/>
+<img src="https://i.imgur.com/qJjkTe6.jpeg" alt="ProfilePicture" width="250" />
 
 ## About Me 🖤 ##
 Part-time coder with a passion for mastering the digital realm. Navigating the complexities of code with precision
@@ -15,5 +15,6 @@ Currently focused on:
 - HTML & CSS for crafting refined web designs 🎨
 - Python for versatile programming solutions 🐍
 ## Collaboration ⚔️
-I’m open to collaborating on projects and sharing knowledge. If you’re interested in working together, feel free to reach out via [Mail](darthcoder2006@proton.me) or connect with me directly.
+I’m open to collaborating on projects and sharing knowledge. If you’re interested in working together, feel free to reach out via [Mail](mailto:darthcoder2006@proton.me)
+<img src="https://i.imgur.com/8HwuGG7.jpeg" alt="Dark Code" width="500" href='mailto:darthcoder2006@proton.me' />
 # *Code with purpose and precision...* 🖤#
