@@ -1,5 +1,5 @@
 # 🌌 Greetings, 🌌
-![Dark Code](https://i.imgur.com/Pj9GxUP.jpeg)
+<img src="https://i.imgur.com/8HwuGG7.jpeg" alt="ProfilePicture" width="500" />
 ## About Me 🖤
 Part-time coder with a passion for mastering the digital realm. Navigating the complexities of code with precision
 ## Interests ⚔️
