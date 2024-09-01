@@ -1,6 +1,6 @@
 # 🌌 Greetings, 🌌
 
-<img src="https://i.imgur.com/qJjkTe6.jpeg" alt="ProfilePicture" width="250"  style=border-radius: "15px"/>
+<img src="https://i.imgur.com/qJjkTe6.jpeg" alt="ProfilePicture" width="250"  style="border-radius: 15px"/>
 
 ## About Me 🖤 ##
 Part-time coder with a passion for mastering the digital realm. Navigating the complexities of code with precision
