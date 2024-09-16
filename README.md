@@ -3,7 +3,15 @@
 <img src="https://i.imgur.com/qJjkTe6.jpeg" alt="ProfilePicture" width="250" />
 
 ## About Me 🖤 ##
-Part-time coder with a passion for mastering the digital realm. Navigating the complexities of code with precision
+Coding enthusiast
+
+## Languages Known 🔠 ##
+- Python
+- HTML
+- Javascript
+- SQL
+
+
 ## Interests ⚔️ ##
 - Exploring open-source projects and contributing where possible 🌌
 - Solving complex coding problems 🧩
