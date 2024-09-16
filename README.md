@@ -23,6 +23,6 @@ Currently focused on:
 - HTML & CSS for crafting refined web designs 🎨
 - Python for versatile programming solutions 🐍
 ## Collaboration ⚔️
-I’m open to collaborating on projects and sharing knowledge. If you’re interested in working together, feel free to reach out via[Mail](mailto:darthcoder2006@proton.me)
+I’m open to collaborating on projects and sharing knowledge. If you’re interested in working together, feel free to reach out via [Mail](mailto:darthcoder2006@proton.me)
 <img src="https://i.imgur.com/uZZKId2.jpeg" alt="Email" width="100" href='mailto:darthcoder2006@proton.me' />
 # *Code with purpose and precision...* 🖤#
