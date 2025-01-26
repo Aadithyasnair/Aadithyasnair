@@ -28,6 +28,10 @@ Currently focused on:
 ![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=flat&logo=nodedotjs&logoColor=white&logoSize=auto&cacheSeconds=https%3A%2F%2Fwww.github.com%2FDarthcoder2006&link=https%3A%2F%2Fwww.github.com%2FDarthcoder2006)
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white&logoSize=auto&cacheSeconds=https%3A%2F%2Fwww.github.com%2FDarthcoder2006&link=https%3A%2F%2Fwww.github.com%2FDarthcoder2006)
 ![Static Badge](https://img.shields.io/badge/Flask-%23000000?style=flat&logo=flask&logoColor=white&logoSize=auto&cacheSeconds=https%3A%2F%2Fwww.github.com%2FDarthcoder2006&link=https%3A%2F%2Fwww.github.com%2FDarthcoder2006)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white&logoSize=auto&cacheSeconds=https%3A%2F%2Fwww.github.com%2FDarthcoder2006&link=https%3A%2F%2Fwww.github.com%2FDarthcoder2006)
+![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?style=flat&logo=arduino&logoColor=white&logoSize=auto&cacheSeconds=https%3A%2F%2Fwww.github.com%2FDarthcoder2006&link=https%3A%2F%2Fwww.github.com%2FDarthcoder2006)
+![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=white&logoSize=auto&cacheSeconds=https%3A%2F%2Fwww.github.com%2FDarthcoder2006&link=https%3A%2F%2Fwww.github.com%2FDarthcoder2006)
+
 
 
 ## Collaboration ⚔️
