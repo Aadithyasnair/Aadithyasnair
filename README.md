@@ -1,6 +1,6 @@
-# 🌌 Greetings, 🌌
+# Greetings 👋, 
 
-<img src="https://i.imgur.com/qJjkTe6.jpeg" alt="ProfilePicture" width="250" />
+/*<img src="https://i.imgur.com/qJjkTe6.jpeg" alt="ProfilePicture" width="250" />*/
 
 ## About Me 🖤 ##
 Coding enthusiast
