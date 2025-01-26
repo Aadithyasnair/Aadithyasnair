@@ -1,7 +1,7 @@
 # Greetings 👋, 
 
 ###
-### About Me 🖤 ##
+## About Me 🖤 ##
 
 Coding and Development enthusiast
 
