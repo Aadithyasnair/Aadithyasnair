@@ -4,7 +4,7 @@
 ## About Me 🖤 ##
 Coding enthusiast
 ###
-![Static Badge](https://img.shields.io/badge/Hi?style=flat&logo=github&cacheSeconds=https%3A%2F%2Fwww.github.com%2FDarthcoder2006&link=https%3A%2F%2Fwww.github.com%2FDarthcoder2006)
+![](https://komarev.com/ghpvc/?username=Darthcoder2006)
 ###
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDarthcoder2006&count_bg=%23050052&title_bg=%23000000&icon=github.svg&icon_color=%23484040&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 ## My GitHub Trophies
