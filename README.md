@@ -16,7 +16,7 @@ Coding and Development enthusiast
 ![Darthcoder2006's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darthcoder2006&show_icons=true&theme=dracula)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darthcoder2006&layout=donut-vertical&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darthcoder2006&layout=donut-vertical&theme=dracula&hide_progress=true)
 
 ## Learning 📚
 Currently focused on:
