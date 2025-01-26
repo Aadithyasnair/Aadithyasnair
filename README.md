@@ -10,7 +10,7 @@ Coding and Development enthusiast
 
 ## My GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Darthcoder2006&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Darthcoder2006&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My GitHub Stats
 ![Darthcoder2006's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darthcoder2006&show_icons=true&theme=dark)
