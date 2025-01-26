@@ -13,10 +13,10 @@ Coding and Development enthusiast
 [![trophy](https://github-profile-trophy.vercel.app/?username=Darthcoder2006&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My GitHub Stats
-![Darthcoder2006's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darthcoder2006&show_icons=true&theme=radical)
+![Darthcoder2006's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darthcoder2006&show_icons=true&theme=darkhub)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darthcoder2006&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darthcoder2006&layout=donut-vertical&theme=darkhub)
 
 ## Learning 📚
 Currently focused on:
