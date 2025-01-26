@@ -21,7 +21,7 @@ Currently focused on:
 
 ## My Tech Stack
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white&logoSize=auto&cacheSeconds=https%3A%2F%2Fwww.github.com%2FDarthcoder2006&link=https%3A%2F%2Fwww.github.com%2FDarthcoder2006)
-![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=htmx&logoColor=white&logoSize=auto&cacheSeconds=https%3A%2F%2Fwww.github.com%2FDarthcoder2006&link=https%3A%2F%2Fwww.github.com%2FDarthcoder2006)
+![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white&logoSize=auto&cacheSeconds=https%3A%2F%2Fwww.github.com%2FDarthcoder2006&link=https%3A%2F%2Fwww.github.com%2FDarthcoder2006)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white&logoSize=auto&cacheSeconds=https%3A%2F%2Fwww.github.com%2FDarthcoder2006&link=https%3A%2F%2Fwww.github.com%2FDarthcoder2006)
 ![Static Badge](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?style=flat&logo=tailwindcss&logoColor=white&logoSize=auto&cacheSeconds=https%3A%2F%2Fwww.github.com%2FDarthcoder2006&link=https%3A%2F%2Fwww.github.com%2FDarthcoder2006)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white&logoSize=auto&cacheSeconds=https%3A%2F%2Fwww.github.com%2FDarthcoder2006&link=https%3A%2F%2Fwww.github.com%2FDarthcoder2006)
