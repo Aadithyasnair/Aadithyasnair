@@ -1,16 +1,10 @@
 # Greetings 👋, 
 
-/*<img src="https://i.imgur.com/qJjkTe6.jpeg" alt="ProfilePicture" width="250" />*/
 
 ## About Me 🖤 ##
 Coding enthusiast
 
-## Languages Known 🔠 ##
-- Python
-- HTML
-- Javascript
-- SQL
-
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Darthcoder2006/&title=Profile%20Views)
 
 ## Interests ⚔️ ##
 - Exploring open-source projects and contributing where possible 🌌
