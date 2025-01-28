@@ -17,7 +17,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darthcoder2006&show_icons=true&theme=dark&count_private=true)
 
 ## 🔝 Top Languages
-![Top Languages]()
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darthcoder2006&layout=compact&theme=dark)
 
 ---
 
