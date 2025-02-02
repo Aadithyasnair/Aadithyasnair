@@ -9,15 +9,15 @@
 ---
 
 ## 🏆 My GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Darthcoder2006&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aadithyasnair&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darthcoder2006&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadithyasnair&show_icons=true&theme=dark&count_private=true)
 
 ## 🔝 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darthcoder2006&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadithyasnair&layout=compact&theme=dark)
 
 ---
 
